@@ -1,4 +1,4 @@
-# Estudo-dirigido-2-INTELIG-NCIA-ARTIFICIAL-TOTAL-SOFTWARE-PROCESS-
+# Estudo dirigido 2 (INTELIGÊNCIA ARTIFICIAL TOTAL SOFTWARE PROCESS) 
 
 Estudo dirigido 2 – Regressão Linear
  
